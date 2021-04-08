@@ -46,7 +46,6 @@ I'm [☆ᴾᴿᴼ乡𝕼𝖚𝖊𝖊𝖓乡ᴾᴿᴼ☆°](https://telegra.ph/fi
 നിങ്ങൾ ധൈര്യശലികൾ ആണോ😎  എന്നാൽ /help  ഇൽ തൊട്ട് നോക്കു!കമ്മാൻഡ്‌സ് ഒകെ വരുന്നത് കാണാം☠☠☠...     ..`
 """
 
-
 buttons  = [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
                                   url="t.me/real_queen_bot?startgroup=true"),
 ]]
@@ -55,7 +54,6 @@ buttons += [[InlineKeyboardButton(text="DEV❤",
 ]]
 buttons += [[InlineKeyboardButton(text="SUPPORT🌳",
                                   url="https://t.me/queenpro_support")]]
-
 
 HELP_STRINGS = f"""
 `Hi.. I'm` [☆ᴾᴿᴼ乡𝕼𝖚𝖊𝖊𝖓乡ᴾᴿᴼ☆°](https://telegra.ph/file/701ab33810320a689ee1c.jpg)
