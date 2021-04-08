@@ -50,10 +50,10 @@ I'm [☆ᴾᴿᴼ乡𝕼𝖚𝖊𝖊𝖓乡ᴾᴿᴼ☆°](https://telegra.ph/fi
 buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
                                   url="t.me/real_queen_bot?startgroup=true"),
 ]]
-
 buttons += [[InlineKeyboardButton(text="DEV❤",
                                   url="https://t.me/danger_of_telegram"),
-             InlineKeyboardButton(text="SUPPORT🌳",
+]]
+buttons += [[InlineKeyboardButton(text="SUPPORT🌳",
                                   url="https://t.me/queenpro_support")]]
 
 
