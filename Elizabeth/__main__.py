@@ -47,7 +47,7 @@ I'm [☆ᴾᴿᴼ乡𝕼𝖚𝖊𝖊𝖓乡ᴾᴿᴼ☆°](https://telegra.ph/fi
 """
 
 
-buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
+buttons  = [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
                                   url="t.me/real_queen_bot?startgroup=true"),
 ]]
 buttons += [[InlineKeyboardButton(text="DEV❤",
