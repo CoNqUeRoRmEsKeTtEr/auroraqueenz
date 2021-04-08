@@ -40,33 +40,25 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
       Hi..Welcome 👀
-I'm ☆ᴾᴿᴼ乡𝕼𝖚𝖊𝖊𝖓乡ᴾᴿᴼ☆°
-
+I'm [☆ᴾᴿᴼ乡𝕼𝖚𝖊𝖊𝖓乡ᴾᴿᴼ☆°](https://telegra.ph/file/701ab33810320a689ee1c.jpg)
  ഗ്രൂപ്പിൽ കയറാൻ വരുന്നവർ ഗ്രൂപ്പിനെ പറ്റിയും റൂൾസ് നെ  പറ്റിയും അറിയണം... 😌എന്നാൽ ഗ്രൂപ്പ് ഭരിക്കാൻ വരുന്നവൻ അവൻ ആരാ എന്ന് ബാക്കി ഉള്ളവരെ  അറിയിക്കണം!!😈
 
 നിങ്ങൾ ധൈര്യശലികൾ ആണോ😎  എന്നാൽ /help  ഇൽ തൊട്ട് നോക്കു!കമ്മാൻഡ്‌സ് ഒകെ വരുന്നത് കാണാം☠☠☠...     ..`
 """
 
-buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❓",
-                                  callback_data="help_back"),
-]]
 
 buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
-                                  url="t.me/Elizabeth_TgBot?startgroup=true"),
+                                  url="t.me/real_queen_bot?startgroup=true"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
-                                  url="https://t.me/MR_SHRLOCK/49"),
+buttons += [[InlineKeyboardButton(text="DEV❤",
+                                  url="https://t.me/danger_of_telegram"),
              InlineKeyboardButton(text="SUPPORT🌳",
-                                  url="https://t.me/joinchat/oxSPzt02LkgxOTY9"),
-]]
-
-buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
-                                  callback_data="close_menu")]]
+                                  url="https://t.me/queenpro_support")]]
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` єlízαвєth[🦋](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
+`Hi.. I'm` [☆ᴾᴿᴼ乡𝕼𝖚𝖊𝖊𝖓乡ᴾᴿᴼ☆°](https://telegra.ph/file/701ab33810320a689ee1c.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
