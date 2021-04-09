@@ -1,4 +1,3 @@
-
 from Elizabeth.events import register
 from Elizabeth import telethn as tbot
 TMP_DOWNLOAD_DIRECTORY = "./"
