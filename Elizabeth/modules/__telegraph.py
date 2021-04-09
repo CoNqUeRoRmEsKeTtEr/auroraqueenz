@@ -1,5 +1,5 @@
 from Elizabeth.events import register
-from Elizabeth.config import Development as Config      
+from Elizabeth.      
 TMP_DOWNLOAD_DIRECTORY = "./"
 from telethon import events
 import os
