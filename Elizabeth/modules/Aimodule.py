@@ -50,4 +50,4 @@ async def hmm(event):
            await asyncio.sleep(2)
            await event.reply(result)
     except CFError as e:
-           
+           print(e)
