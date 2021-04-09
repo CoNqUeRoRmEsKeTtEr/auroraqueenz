@@ -86,4 +86,3 @@ I can upload files to Telegraph
 """
 
 __mod_name__ = "T GRAPH"
-© 2021 GitHub, Inc.
