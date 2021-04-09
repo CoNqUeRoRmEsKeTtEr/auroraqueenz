@@ -1,5 +1,4 @@
 import random, html
-
 from Elizabeth import dispatcher
 from Elizabeth.modules.disable import (DisableAbleCommandHandler,
                                           DisableAbleMessageHandler)
